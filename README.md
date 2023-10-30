@@ -2,7 +2,6 @@
 - # test
 - <p> test </p>
 - <h2>test</h2>
-- [link](https://kai3401.github.io/ascii.html){:target="_blank"}
 - <a href="https://kai3401.github.io/ascii.html" target="_blank">ascii_art</a>
 <!---
 KAi3401/KAi3401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
